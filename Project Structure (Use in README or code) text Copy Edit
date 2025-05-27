@@ -1,0 +1,25 @@
+targetpayandbenefits/
+│
+├── public/
+│   ├── index.html
+│   └── manifest.json
+│
+├── src/
+│   ├── index.js
+│   ├── index.css
+│   ├── App.js
+│   ├── App.css
+│   ├── App.test.js
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Header.css
+│   │   ├── ExpenseForm.js
+│   │   ├── ExpenseForm.css
+│   │   ├── ExpenseList.js
+│   │   ├── ExpenseList.css
+│   │   ├── Receipt.js
+│   │   └── Receipt.css
+│
+├── package.json
+├── README.md
+└── CONTRIBUTING.md
