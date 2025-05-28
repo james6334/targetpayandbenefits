@@ -19,8 +19,8 @@ TargetPayAndBenefits is a secure, easy-to-use web portal simulation designed to 
 
 ## Author
 **Name:** DevSage  
-**Email:** devsage@devmail.com  
-**Website:** 
+**Email:** james633dery@outlook.com
+**Website:**  [targetpayandbenefits](https://www.targetpayandbenefits.it.com)
 
 DevSage is a full-stack software engineer with a passion for writing clean, efficient code. With 8+ years of experience in web development and enterprise software, DevSage has mentored hundreds of junior developers and actively contributes to open-source projects. Known for a collaborative and problem-solving mindset, DevSage enjoys transforming ideas into real-world applications.
 
